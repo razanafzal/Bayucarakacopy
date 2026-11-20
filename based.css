@@ -200,7 +200,7 @@ nav .brand {
   padding: 5rem max(6%, calc((100% - 72rem) / 2));
   color: #fff;
   background-color: #07111f;
-  background-image: var(--hero-overlay), url("image/drone.jpg");
+  background-image: var(--hero-overlay), url("drone.jpg");
   background-position:
     center,
     70% center;
